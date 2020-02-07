@@ -1,0 +1,5 @@
+tic-tac-toe/.gradle*
+tic-tac-toe/.idea*
+tic-tac-toe/build/classes*
+tic-tac-toe/build/kotlin*
+tic-tac-toe/gradlew.bat
